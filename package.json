@@ -1,6 +1,6 @@
 {
   "name": "@luismayo/schinquirer",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Schema inquirer",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gobwas/schinquirer.git"
+    "url": "https://github.com/LuisMayo/schinquirer.git"
   },
   "keywords": [
     "inquirer",
     "json",
     "schema"
   ],
-  "author": "Sergey Kamardin <gobwas@gmail.com>",
+  "author": "LuisMayo <luismayovalbuena@outlook.es>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gobwas/schinquirer/issues"
+    "url": "https://github.com/LuisMayo/schinquirer/issues"
   },
-  "homepage": "https://github.com/gobwas/schinquirer",
+  "homepage": "https://github.com/LuisMayo/schinquirer",
   "dependencies": {
     "inquirer": "^7.3.3",
     "is-my-json-valid": "^2.12.0",
