@@ -1,6 +1,6 @@
 {
-  "name": "schinquirer",
-  "version": "0.3.2",
+  "name": "@luismayo/schinquirer",
+  "version": "0.4.0",
   "description": "Schema inquirer",
   "main": "index.js",
   "scripts": {
@@ -24,11 +24,11 @@
   "dependencies": {
     "inquirer": "^7.3.3",
     "is-my-json-valid": "^2.12.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "promiscuous": "^0.6.0"
   },
   "devDependencies": {
     "chai": "^2.3.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.1.1"
   }
 }
